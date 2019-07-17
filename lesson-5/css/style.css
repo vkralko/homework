@@ -1,0 +1,58 @@
+body {
+  background: url(../img/bg-patt-01.jpg);
+}
+
+h1, h2 { 
+  text-align: center;
+}
+
+.coursive {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+h2 {
+  border: 2px solid black;
+  padding: 10px;
+  background-color: lightgray;
+}
+
+#chapter-1 {
+  color: #2196F3;
+}
+
+#chapter-2 {
+  color: #673AB7;
+}
+
+#chapter-3 {
+  color: #4CAF50;
+}
+
+#chapter-4 {
+  color: #F44336;
+}
+
+#chapter-5 {
+  color: #FF9800;
+}
+
+.nav {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  border: 1px solid black;
+  padding: 20px;
+  background-color: lightgray;
+}
